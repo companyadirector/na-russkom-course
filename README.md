@@ -1,2 +1,2 @@
-# na-russkom-course
+#russky-course
 Обучение на русском
